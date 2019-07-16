@@ -13,7 +13,6 @@ codeunit 50110 "QR Code Printing"
         ImageFormat: DotNet ImageFormat2;
         QrCodeBitmap: DotNet QrCodeBitmap;
         cuFileManagement: Codeunit "File Management";
-        TextToQR: Text;
         SaveLocation: Text;
         BmpFormat: Label '.bmp';
     begin
